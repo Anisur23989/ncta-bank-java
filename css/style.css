@@ -1,0 +1,107 @@
+body{
+    background-color:whitesmoke;
+}
+h1{
+    font-size: 80px;
+    color: blue;
+    text-align: center;
+    margin-top: 60px;
+
+}
+span{
+    color : green;
+}
+h3{
+    font-size: 40px;
+    color: green;
+    
+}
+.from{
+
+    width: 700px;
+    padding: 30px;
+    color: red;
+    margin: 60px auto;
+    background-color: burlywood;
+}
+input{
+    width: 550px;
+    padding:20px;
+    font-size:30px;
+    border-style: none;
+}
+button{
+    background-color: tomato;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    width: 200px;
+    border-radius: 40px;
+    font-weight: 700;
+    border-style: none;
+}
+
+/* balance page */
+
+.container{
+    width: 1260px;
+    margin: auto;
+}
+
+.mul{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    margin: auto;
+}
+
+.box{
+    width: 350px;
+    padding: 50px;
+    background-color: chartreuse;
+    margin-right: 20px;
+    color: white;
+
+}
+.box2{
+    width: 350px;
+    padding: 50px;
+    background-color: yellowgreen;
+    margin-right: 20px;
+    color: white;
+
+}
+.box3{
+    width: 350px;
+    padding: 50px;
+    background-color: lightblue;
+    margin-right: 20px;
+    color: white;
+
+}
+.box4{
+    width: 575px;
+    padding: 50px;
+    background-color: hotpink;
+    margin-right: 20px;
+    color: white;
+    margin-top: 30px;
+
+}
+.box5{
+    width: 575px;
+    padding: 50px;
+    background-color: lightgreen;
+    margin-right: 20px;
+    color: white;
+    margin-top: 30px;
+
+}
+h2{
+    color: white;
+    font-size: 50px;
+}
+h3{
+    color: white;
+    font-size: 45px;
+}
